@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opera00giergoog/opera00giergoog_0007.png"; bbox 0 0 3600 5925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 413 2473 1224 2551">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 413 2473 1224 2551">
+     <span class='ocr_line' id='line_1_1' title="bbox 413 2473 1224 2551; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 413 2475 645 2551; x_wconf 92' lang='lat' dir='ltr'><strong>PUBLII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 687 2473 905 2550; x_wconf 91' lang='lat' dir='ltr'>OVIDII</span> <span class='ocrx_word' id='word_1_3' title='bbox 946 2474 1224 2550; x_wconf 86' lang='lat' dir='ltr'>NASONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 707 2799 934 2874">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 707 2799 934 2874">
+     <span class='ocr_line' id='line_1_2' title="bbox 707 2799 934 2874; baseline 0.009 -2"><span class='ocrx_word' id='word_1_4' title='bbox 707 2799 934 2874; x_wconf 88' lang='lat' dir='ltr'><strong>OPERA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1804 5924">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1804 5924">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1804 5924; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1804 5924; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
